@@ -7,3 +7,9 @@ def subtract(a, b):
     return c
 
 pi = 25
+
+def multiply(a, b):
+    c = a * b
+    return c
+
+e = [9, 3]

@@ -16,3 +16,5 @@ e = [9, 3, 'j']
 def divide (a,b)
 c=a/b
 return c
+
+d = {2:56, 'hi':23}

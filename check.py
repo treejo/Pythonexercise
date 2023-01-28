@@ -18,3 +18,4 @@ c=a/b
 return c
 
 # make some changes 
+d = {2:56, 'hi':23}

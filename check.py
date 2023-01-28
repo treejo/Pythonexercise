@@ -13,9 +13,9 @@ def multiply(a, b):
     return c
 
 e = [9, 3, 'j']
-def divide (a,b)
-c=a/b
-return c
+def divide (a,b):
+    c=a/b
+    return c
 
 # make some changes 
 d = {2:56, 'hi':23}

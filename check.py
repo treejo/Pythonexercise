@@ -13,3 +13,6 @@ def multiply(a, b):
     return c
 
 e = [9, 3, 'j']
+def divide (a,b)
+c=a/b
+return c
